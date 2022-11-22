@@ -53,7 +53,7 @@ ELS += use-package-delight.el
 ELS += use-package-diminish.el
 ELS += use-package-ensure.el
 ELS += use-package-jump.el
-ELS += use-package-tests.el
+#ELS += use-package-tests.el
 ELS += use-package-chords.el
 ELS += use-package-ensure-system-package.el
 ELCS = $(ELS:.el=.elc)
